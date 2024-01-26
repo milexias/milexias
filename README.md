@@ -16,6 +16,6 @@ _Eu sou a Alexia Santos._ Possuo pós-graduação em Business Intelligence & Ana
 - Sou apaixonada por aprender e ensinar, e unir ambos com tecnologia.
 
 #### ⚡ Uma linha que me descreve?
-- Muito amor pelas simplicidades da vida, pelo movimento e a natureza. 
+- Muito amor pela literatura, por estar sempre em movimento e encontrar a felicidade na natureza.
 
 🍃 _"Talvez as histórias sejam apenas dados com alma." - Brené Brown_
