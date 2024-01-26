@@ -15,7 +15,7 @@ _Eu sou a Alexia Santos._ Possuo pós-graduação em Business Intelligence & Ana
 - Introvertida que adora conhecer pessoas. Comprometida, dedicada, organizada e criativa. Boas habilidades analíticas, comunicação e resiliencia. 
 - Sou apaixonada por aprender e ensinar, e unir ambos com tecnologia.
 
-#### ⚡ Uma linha que me descreve?
+#### ⚡ Me descrevendo em uma linha:
 - Muito amor pela literatura, por estar sempre em movimento e encontrar a felicidade na natureza.
 
 🍃 _"Talvez as histórias sejam apenas dados com alma." - Brené Brown_
