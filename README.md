@@ -2,7 +2,7 @@
 
 _Eu sou a Alexia Santos._ Possuo pós-graduação em Business Intelligence & Analytics e graduação em Administração. Atualmente, cursando o *Bootcamp em Data Analytics da WoMakersCode*.
 
-💻 Minhas habilidades abrangem **Tableau, SQL, Power BI, Python, Excel e Alteryx (Certificação Core Design)**, aplicadas em projetos e contextos educacionais. 
+💻 Minhas habilidades abrangem **Tableau, SQL, Power BI, Python, Excel, Alteryx (Certificação Core Design), Git e GitHub**, aplicadas em projetos e contextos educacionais. 
 
 #### 🌱 Como profissional:
 - Com experiência no sucesso de clientes, nacionais e internacionais. 
