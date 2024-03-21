@@ -8,6 +8,12 @@
 - 👩🏻‍🚀 Possuo inglês avançado e, atualmente, me aventuro no espanhol.
 - 🔭 Apaixonada por aprender e ensinar, e unir ambos com tecnologia.
 
+### 🗺 Guia de Repositórios: 
+
+- [Portfolio Tableau e Alteryx](https://github.com/milexias/portal-investimentos) - dashboard de indicadores financeiros utilizando o Tableau para visualização e Alteryx Designer para os processos de modelagem e ETL.
+- Portfolio PowerBI e Python - em construção...
+- Cursos - [Python](https://github.com/milexias/repositorio-python), [SQL](https://github.com/milexias/sql-functions), [Bootcamp em Analytics](https://github.com/milexias/bootcamp_data_analytics); repositório de conteúdos que estudo ou estudei. 
+
 ### 📫 How to reach me:
 
 <a href="linkedin.com/in/alexia-ssantos/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
