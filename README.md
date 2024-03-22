@@ -12,11 +12,13 @@
 
 - [Portfolio Tableau e Alteryx](https://github.com/milexias/portal-investimentos) - dashboard de indicadores financeiros utilizando o Tableau para visualização e Alteryx Designer para os processos de modelagem e ETL.
 - Portfolio PowerBI e Python - em construção...
-- Cursos - [Python](https://github.com/milexias/repositorio-python), [SQL](https://github.com/milexias/sql-functions), [Bootcamp em Analytics](https://github.com/milexias/bootcamp_data_analytics); repositório de conteúdos que estudo ou estudei. 
+- Cursos - [Python](https://github.com/milexias/repositorio-python), [SQL](https://github.com/milexias/sql-functions), [Bootcamp em Analytics](https://github.com/milexias/bootcamp_data_analytics); repositório de conteúdos que estudo ou estudei.
+- [LinkedIn](https://www.linkedin.com/in/alexia-ssantos/) - Compartilho conteúdos que estudo, além de indicações para a área de dados.  
 
 ### 📫 How to reach me:
 
-<a href="linkedin.com/in/alexia-ssantos/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alexia-ssantos/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 ### 🤖 Programming Languages and Tools
 
