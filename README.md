@@ -8,13 +8,11 @@
 - 🌱 Possuo inglês avançado e, atualmente, me aventuro no espanhol.
 - 🔭 Apaixonada por aprender e ensinar, e unir ambos com tecnologia.
 
-### 🪐 Guia de Repositórios: 
-#### Portfolio
+### 🪐 Repositórios e Portfólio: 
+
 - [Tableau e Alteryx](https://github.com/milexias/portal-investimentos) - Análise de indicadores financeiros. Tableau para dataviz e Alteryx Designer para modelagem e ETL.
 - [PowerBI e Python](https://github.com/milexias/hr-attrition) - Análise de taxas de rotatividade de funcionários e possíveis tendências. PowerBI e Python para dataviz e Python para EDA e insights.  
 - [LinkedIn](https://www.linkedin.com/in/alexia-ssantos/) - Compartilho conteúdos que estudo, além de indicações para a área de dados. 
-#### Cursos
-- [Python](https://github.com/milexias/repositorio-python); [SQL](https://github.com/milexias/sql-functions); [Bootcamp em Analytics](https://github.com/milexias/bootcamp_data_analytics) - repositório de conteúdos que estudo ou estudei.
 
 ### 📫 Vamos nos conectar?
 
