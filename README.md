@@ -1,6 +1,6 @@
 ## Olá, mundo! 🔭 
 
-### Este é meu repositório de Análise e Ciência de Dados.
+### Este é meu repositório de Análise e Ciência de Dados
 
 - 👨‍💻 Sou pós-graduada em Business Intelligence & Analytics e graduada em Administração. 
 - 👩🏻‍🚀 Atualmente, cursando o Bootcamp em Data Analytics da WoMakersCode.
@@ -8,13 +8,14 @@
 - 🌱 Possuo inglês avançado e, atualmente, me aventuro no espanhol.
 - 🔭 Apaixonada por aprender e ensinar, e unir ambos com tecnologia.
 
-### 🪐 Repositórios e Portfólio: 
+### 🪐 Repositórios e Portfólio
 
 - [Tableau e Alteryx](https://github.com/milexias/portal-investimentos) - Análise de indicadores financeiros. Tableau para dataviz e Alteryx Designer para modelagem e ETL.
 - [PowerBI e Python](https://github.com/milexias/hr-attrition) - Análise de taxas de rotatividade de funcionários e possíveis tendências. PowerBI e Python para dataviz e Python para EDA e insights.  
-- [LinkedIn](https://www.linkedin.com/in/alexia-ssantos/) - Compartilho conteúdos que estudo, além de indicações para a área de dados. 
 
 ### 📫 Vamos nos conectar?
+
+Compartilho conteúdos que estudo, além de indicações para a área de dados. 
 
 <a href="https://www.linkedin.com/in/alexia-ssantos/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
