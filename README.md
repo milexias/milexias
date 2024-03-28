@@ -8,11 +8,6 @@
 - 🌱 Possuo inglês avançado e, atualmente, me aventuro no espanhol.
 - 🔭 Apaixonada por aprender e ensinar, e unir ambos com tecnologia.
 
-### 🪐 Repositórios e Portfólio
-
-- [Tableau e Alteryx](https://github.com/milexias/portal-investimentos) - Análise de indicadores financeiros. Tableau para dataviz e Alteryx Designer para modelagem e ETL.
-- [PowerBI e Python](https://github.com/milexias/hr-attrition) - Análise de taxas de rotatividade de funcionários e possíveis tendências. PowerBI e Python para dataviz e Python para EDA e insights.  
-
 ### 📫 Vamos nos conectar?
 
 Compartilho conteúdos que estudo, além de indicações para a área de dados. 
