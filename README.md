@@ -10,8 +10,13 @@
 
 ### 🪐 Repositórios e Portfólio
 
-- [Tableau e Alteryx](https://github.com/milexias/portal-investimentos) - Análise de indicadores financeiros. Tableau para dataviz e Alteryx Designer para modelagem e ETL.
-- [PowerBI e Python](https://github.com/milexias/hr-attrition) - Análise de taxas de rotatividade de funcionários e possíveis tendências. PowerBI e Python para dataviz e Python para EDA e insights.  
+- [Portal de Investimentos](https://github.com/milexias/portal-investimentos) - Portal de indicadores financeiros e simulador de investimentos. Ferramentas: Tableau e Alteryx Designer.
+
+- [HR Attrition](https://github.com/milexias/hr-attrition) - Análise de taxas de rotatividade de funcionários e possíveis tendências. Ferramentas: Python, PowerBI.
+
+- [Brand Tracking](https://github.com/milexias/brand-tracking) - Análise de tracking de imagem de marca para uma corretora de seguros. Ferramentas: Python e PowerBI.
+
+- [CMI Analytics](https://github.com/milexias/cmi-analytics) - Análise de pesquisa de marcas e soluções de negócios. Ferramentas: Python, PowerBI, SQL e Excel.
 
 ### 📫 Vamos nos conectar?
 
