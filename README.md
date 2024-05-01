@@ -8,16 +8,6 @@
 - 🌱 Possuo inglês avançado e, atualmente, me aventuro no espanhol.
 - 🔭 Apaixonada por aprender e ensinar, e unir ambos com tecnologia.
 
-### 🪐 Repositórios e Portfólio
-
-- [Portal de Investimentos](https://github.com/milexias/portal-investimentos) - Portal de indicadores financeiros e simulador de investimentos. Ferramentas: Tableau e Alteryx Designer.
-
-- [HR Attrition](https://github.com/milexias/hr-attrition) - Análise de taxas de rotatividade de funcionários e possíveis tendências. Ferramentas: Python, PowerBI.
-
-- [Brand Tracking](https://github.com/milexias/brand-tracking) - Análise de tracking de imagem de marca para uma corretora de seguros. Ferramentas: Python e PowerBI.
-
-- [CMI Analytics](https://github.com/milexias/cmi-analytics) - Análise de pesquisa de marcas e soluções de negócios. Ferramentas: Python, PowerBI, SQL e Excel.
-
 ### 📫 Vamos nos conectar?
 
 Compartilho conteúdos que estudo, além de indicações para a área de dados. 
