@@ -1,21 +1,18 @@
-## Olá, mundo! 🔭 
+## Hello, world! 🔭
 
-### Este é meu repositório de Análise e Ciência de Dados
+### Welcome to my Data Analysis repository.
 
-- 👨‍💻 Sou pós-graduada em Business Intelligence & Analytics e graduada em Administração. 
-- 👩🏻‍🚀 Atualmente, cursando o Bootcamp em Data Analytics da WoMakersCode.
-- 🌱 Como profissional fui responsável pelo Sucesso e Satisfação dos Slientes, tanto a nível nacional quanto internacional. Atuei também como facilitadora do processo de aprendizagem nos campos de Administração e na ferramenta Alteryx.
-- 🌱 Possuo inglês avançado e, atualmente, me aventuro no espanhol.
-- 🔭 Apaixonada por aprender e ensinar, e unir ambos com tecnologia.
+- 👨‍💻 Data Analyst with a postgraduate degree in Business Intelligence & Analytics and a bachelor's degree in Business Administration. Currently enrolled in the Data Analytics Bootcamp by WoMakersCode, I am dedicated to driving strategic decision-making through data analysis and modeling. With advanced proficiency in English and basic Spanish skills, I have a strong background in client success and satisfaction at both national and international levels.
+- 👩🏻‍🚀 My professional experience includes working as a Data Analyst Jr III at Ilumeo, where I focus on exploratory data analysis, descriptive and inferential statistics, brand tracking, social listening, and influencer impact assessment. Additionally, I serve as a Data Instructor and Content Creator at Ada Tech, developing and teaching comprehensive Tableau courses tailored for B2B and B2C audiences. I have also conducted Alteryx training for Accenture Brazil, receiving high instructor ratings for my practical and customized lessons.
+- 🌱 My passion lies in combining technology with learning and teaching, and I actively share my knowledge and insights with the community.
 
-### 📫 Vamos nos conectar?
 
-Compartilho conteúdos que estudo, além de indicações para a área de dados. 
+### 📫 Let’s connect and collaborate on exciting data projects to leverage strategic insights and drive business growth.
 
 <a href="https://www.linkedin.com/in/alexia-ssantos/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-### 🤖 Linguagens e Ferramentas
+### 🤖 Hard Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -33,7 +30,7 @@ Compartilho conteúdos que estudo, além de indicações para a área de dados.
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-### 🖊️ Certificação
+### 🖊️ Certification 
 
 
 <a href="https://www.credly.com/badges/c0805964-6faf-4910-a050-be3c71ebf95e/public_url"><img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Badge" align="left" width="100px">
